@@ -1,0 +1,2 @@
+com/clevermustafa/flash_blink_app/BuildConfig.java
+ com.clevermustafa.flash_blink_app.BuildConfig

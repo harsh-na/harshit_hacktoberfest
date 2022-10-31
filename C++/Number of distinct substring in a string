@@ -1,0 +1,32 @@
+// contributed by sachin raj
+
+class trienode{
+    public:
+
+    trienode* child[26];
+    trienode(){
+    for(int i=0;i<26;i++)child[i]=NULL;
+    }
+   
+};
+
+int countDistinctSubstring(string s)
+{
+    //Your code her
+    int cnt=0;
+    trienode* root=new trienode();
+    for(int i=0;i<s.size();++i){
+          trienode* temp=root;
+        for(int j=i;j<s.size();++j){
+           int idx=s[j]-'a';
+           if(temp->child[idx]==NULL){
+               
+             trienode* x=new trienode();
+               temp->child[idx]=x;
+               cnt++;
+           }
+           temp=temp->child[idx];
+        }
+    }
+    return cnt+1;
+}

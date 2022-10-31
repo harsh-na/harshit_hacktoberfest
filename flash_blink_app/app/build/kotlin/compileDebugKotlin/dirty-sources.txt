@@ -1,0 +1,5 @@
+/Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/java/com/clevermustafa/flash_blink_app/ui/theme/Color.kt
+/Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/java/com/clevermustafa/flash_blink_app/ui/theme/Type.kt
+/Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/java/com/clevermustafa/flash_blink_app/ui/theme/Theme.kt
+/Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/java/com/clevermustafa/flash_blink_app/ui/theme/Shape.kt
+/Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/java/com/clevermustafa/flash_blink_app/MainActivity.kt

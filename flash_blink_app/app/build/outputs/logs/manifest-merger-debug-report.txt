@@ -1,0 +1,368 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/57b963b5cc4f5fb9c4c34c5004caf8bb/transformed/jetified-ui-tooling-1.0.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/b8c3cf94de9ddd7de5094baecd117969/transformed/jetified-material-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.6.0] /Users/clever_mustafa/.gradle/caches/transforms-3/6236c0b4c57fbd76632a4576d79868cd/transformed/jetified-activity-compose-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5d75c25d5e6636507c1a65fa87e609e7/transformed/jetified-ui-tooling-data-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/111deddb6de447fe20bada3b3da7dc0b/transformed/jetified-material-ripple-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/baee163608f210740520fdfe6217ff5d/transformed/jetified-foundation-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/705013db60c810b9c78f11fa8e0adb5d/transformed/jetified-animation-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/823e4f23d1273053616528d5a15fe071/transformed/jetified-animation-core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/49d147c2647e523c91ed1823f59b5885/transformed/jetified-material-icons-core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/51cc27ff4979f23e33a88693559a4ba8/transformed/jetified-foundation-layout-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/0f76782511a9349c4f0486d129922e6a/transformed/jetified-ui-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/clever_mustafa/.gradle/caches/transforms-3/46beb8e037693a24927c2eec77b8d2a9/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0-alpha01] /Users/clever_mustafa/.gradle/caches/transforms-3/cff81dff5aaae336fc54b544f665b442/transformed/jetified-appcompat-resources-1.7.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5bd6f69fec0d26bb21b6b3132ba20281/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0-alpha01] /Users/clever_mustafa/.gradle/caches/transforms-3/6faeebdb0b774391d3e84e6b81653846/transformed/appcompat-1.7.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/714878f092caccf027043bb0a8fc9818/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/clever_mustafa/.gradle/caches/transforms-3/349bfd9d67727a666fed79919143e4d2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/clever_mustafa/.gradle/caches/transforms-3/d72351424a7fb1103738fdb5a2c9e188/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/clever_mustafa/.gradle/caches/transforms-3/d93ec2e2697b4a66f108e05dc65606d8/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/f9384bfc80023a48acbfcb9ac6dac0a2/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/4b59d006bf72b1ff888885d227e76c64/transformed/jetified-ui-tooling-preview-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5b60848f8f0e50d461c2e29ecf6a496b/transformed/jetified-ui-text-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/6c9f1ca5292e4cfd58fd9cc11fd6c0e1/transformed/jetified-runtime-saveable-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/f9095a8a4fce37396c60cd4156dc63d3/transformed/jetified-ui-graphics-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/e0e493e567c775fcc6ea40adaa887e93/transformed/jetified-ui-unit-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3949ef96f10c2521a257a5ccd9493984/transformed/jetified-ui-geometry-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/1d915023daed514c71dc0078ddbfce45/transformed/jetified-runtime-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/b926fe62f338bd3e1be391b0b7490b42/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/fedf1b49a168a3987907f37053c33737/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/9d8fdb1287613b194e5d2a1ad7f39e3a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/113c4f5d623d8ea0edd02933c9b14084/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/b1c43d9c585b3ac0c567ef34bea19e70/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5cbacf72a64b055a0b1c38a182697f84/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/b0096011f892b0c69afdaabc15890a99/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/9aace39b5116b7ba2b7c0fcc93d446e4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/af5a5388a76ed1ce778ca5639a2c3e45/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/17a4bedc7e5d7d8ff5d65d4a400f1e37/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/053a581f206ed9b7a7dc0b1dff5449b3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/382d43f3923ffc07332d0b5a561b5288/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/9e8d0fdb6dc731e820b13b3a24869fc8/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d63dd71d0d6d716169be8282175687d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2ad697f92c86a6df70dca43897751541/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/06b8e08340255c8072dc894d0905bdcb/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/cd0087dbf0605364a4e01a30760417c4/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/d7e3d392856c4115711f33512bdf5eff/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/44a00f157ec2fd1268d7862b712e63d9/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/6d63cd81a0b8cd75e99682ccc1ae9f76/transformed/jetified-ui-util-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/clever_mustafa/.gradle/caches/transforms-3/ee35a804ab57415bf368e064a1a8ce36/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/b2ec1087477edf901b2589c39bcfe16b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/e49024ff983eeb71402a13f0a5d46d70/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/5af0621d3f782e068210adac1a3b1550/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/7c0d373f4a625b274ae8203ae2f84295/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/8dfc73c6e48ae5976689989909f91503/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/10cb5e87fe4ecb6ebb4e1ed716e50bbb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55788f028323670b6dd63e4905347a05/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/c62ae8330a6f8c276e9b5ac75ee2ca63/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/57c77e0ad10749459fcbb52276548fa8/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/4fd58190a553f7771ecfa6435bea0710/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8e8c6cacdb0c7f5f715fe3f882a4256b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/a2f93394b00f9d5d9ae7bcccdd8ff301/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/90418302dbfe60f8cf582e47bda3a021/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:5:22-62
+application
+ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/57b963b5cc4f5fb9c4c34c5004caf8bb/transformed/jetified-ui-tooling-1.0.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/57b963b5cc4f5fb9c4c34c5004caf8bb/transformed/jetified-ui-tooling-1.0.1/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/clever_mustafa/.gradle/caches/transforms-3/46beb8e037693a24927c2eec77b8d2a9/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/clever_mustafa/.gradle/caches/transforms-3/46beb8e037693a24927c2eec77b8d2a9/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5bd6f69fec0d26bb21b6b3132ba20281/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5bd6f69fec0d26bb21b6b3132ba20281/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/10cb5e87fe4ecb6ebb4e1ed716e50bbb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/10cb5e87fe4ecb6ebb4e1ed716e50bbb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55788f028323670b6dd63e4905347a05/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55788f028323670b6dd63e4905347a05/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:12:9-53
+activity#com.clevermustafa.flash_blink_app.MainActivity
+ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:13:9-23:20
+	android:label
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:16:13-45
+	android:exported
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:15:13-36
+	android:theme
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/57b963b5cc4f5fb9c4c34c5004caf8bb/transformed/jetified-ui-tooling-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/57b963b5cc4f5fb9c4c34c5004caf8bb/transformed/jetified-ui-tooling-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/b8c3cf94de9ddd7de5094baecd117969/transformed/jetified-material-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/b8c3cf94de9ddd7de5094baecd117969/transformed/jetified-material-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.6.0] /Users/clever_mustafa/.gradle/caches/transforms-3/6236c0b4c57fbd76632a4576d79868cd/transformed/jetified-activity-compose-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.6.0] /Users/clever_mustafa/.gradle/caches/transforms-3/6236c0b4c57fbd76632a4576d79868cd/transformed/jetified-activity-compose-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5d75c25d5e6636507c1a65fa87e609e7/transformed/jetified-ui-tooling-data-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5d75c25d5e6636507c1a65fa87e609e7/transformed/jetified-ui-tooling-data-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/111deddb6de447fe20bada3b3da7dc0b/transformed/jetified-material-ripple-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/111deddb6de447fe20bada3b3da7dc0b/transformed/jetified-material-ripple-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/baee163608f210740520fdfe6217ff5d/transformed/jetified-foundation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/baee163608f210740520fdfe6217ff5d/transformed/jetified-foundation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/705013db60c810b9c78f11fa8e0adb5d/transformed/jetified-animation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/705013db60c810b9c78f11fa8e0adb5d/transformed/jetified-animation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/823e4f23d1273053616528d5a15fe071/transformed/jetified-animation-core-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/823e4f23d1273053616528d5a15fe071/transformed/jetified-animation-core-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/49d147c2647e523c91ed1823f59b5885/transformed/jetified-material-icons-core-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/49d147c2647e523c91ed1823f59b5885/transformed/jetified-material-icons-core-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/51cc27ff4979f23e33a88693559a4ba8/transformed/jetified-foundation-layout-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/51cc27ff4979f23e33a88693559a4ba8/transformed/jetified-foundation-layout-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/0f76782511a9349c4f0486d129922e6a/transformed/jetified-ui-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/0f76782511a9349c4f0486d129922e6a/transformed/jetified-ui-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/clever_mustafa/.gradle/caches/transforms-3/46beb8e037693a24927c2eec77b8d2a9/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/clever_mustafa/.gradle/caches/transforms-3/46beb8e037693a24927c2eec77b8d2a9/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0-alpha01] /Users/clever_mustafa/.gradle/caches/transforms-3/cff81dff5aaae336fc54b544f665b442/transformed/jetified-appcompat-resources-1.7.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0-alpha01] /Users/clever_mustafa/.gradle/caches/transforms-3/cff81dff5aaae336fc54b544f665b442/transformed/jetified-appcompat-resources-1.7.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5bd6f69fec0d26bb21b6b3132ba20281/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5bd6f69fec0d26bb21b6b3132ba20281/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0-alpha01] /Users/clever_mustafa/.gradle/caches/transforms-3/6faeebdb0b774391d3e84e6b81653846/transformed/appcompat-1.7.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0-alpha01] /Users/clever_mustafa/.gradle/caches/transforms-3/6faeebdb0b774391d3e84e6b81653846/transformed/appcompat-1.7.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/714878f092caccf027043bb0a8fc9818/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/714878f092caccf027043bb0a8fc9818/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/clever_mustafa/.gradle/caches/transforms-3/349bfd9d67727a666fed79919143e4d2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/clever_mustafa/.gradle/caches/transforms-3/349bfd9d67727a666fed79919143e4d2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/clever_mustafa/.gradle/caches/transforms-3/d72351424a7fb1103738fdb5a2c9e188/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/clever_mustafa/.gradle/caches/transforms-3/d72351424a7fb1103738fdb5a2c9e188/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/clever_mustafa/.gradle/caches/transforms-3/d93ec2e2697b4a66f108e05dc65606d8/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/clever_mustafa/.gradle/caches/transforms-3/d93ec2e2697b4a66f108e05dc65606d8/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/f9384bfc80023a48acbfcb9ac6dac0a2/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/f9384bfc80023a48acbfcb9ac6dac0a2/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/4b59d006bf72b1ff888885d227e76c64/transformed/jetified-ui-tooling-preview-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/4b59d006bf72b1ff888885d227e76c64/transformed/jetified-ui-tooling-preview-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5b60848f8f0e50d461c2e29ecf6a496b/transformed/jetified-ui-text-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5b60848f8f0e50d461c2e29ecf6a496b/transformed/jetified-ui-text-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/6c9f1ca5292e4cfd58fd9cc11fd6c0e1/transformed/jetified-runtime-saveable-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/6c9f1ca5292e4cfd58fd9cc11fd6c0e1/transformed/jetified-runtime-saveable-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/f9095a8a4fce37396c60cd4156dc63d3/transformed/jetified-ui-graphics-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/f9095a8a4fce37396c60cd4156dc63d3/transformed/jetified-ui-graphics-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/e0e493e567c775fcc6ea40adaa887e93/transformed/jetified-ui-unit-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/e0e493e567c775fcc6ea40adaa887e93/transformed/jetified-ui-unit-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3949ef96f10c2521a257a5ccd9493984/transformed/jetified-ui-geometry-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3949ef96f10c2521a257a5ccd9493984/transformed/jetified-ui-geometry-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/1d915023daed514c71dc0078ddbfce45/transformed/jetified-runtime-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/1d915023daed514c71dc0078ddbfce45/transformed/jetified-runtime-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/b926fe62f338bd3e1be391b0b7490b42/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/b926fe62f338bd3e1be391b0b7490b42/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/fedf1b49a168a3987907f37053c33737/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/fedf1b49a168a3987907f37053c33737/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/9d8fdb1287613b194e5d2a1ad7f39e3a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/9d8fdb1287613b194e5d2a1ad7f39e3a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/113c4f5d623d8ea0edd02933c9b14084/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/113c4f5d623d8ea0edd02933c9b14084/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/b1c43d9c585b3ac0c567ef34bea19e70/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/b1c43d9c585b3ac0c567ef34bea19e70/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5cbacf72a64b055a0b1c38a182697f84/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/5cbacf72a64b055a0b1c38a182697f84/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/b0096011f892b0c69afdaabc15890a99/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/b0096011f892b0c69afdaabc15890a99/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/9aace39b5116b7ba2b7c0fcc93d446e4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/9aace39b5116b7ba2b7c0fcc93d446e4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/af5a5388a76ed1ce778ca5639a2c3e45/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/af5a5388a76ed1ce778ca5639a2c3e45/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/17a4bedc7e5d7d8ff5d65d4a400f1e37/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/17a4bedc7e5d7d8ff5d65d4a400f1e37/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/053a581f206ed9b7a7dc0b1dff5449b3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/053a581f206ed9b7a7dc0b1dff5449b3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/382d43f3923ffc07332d0b5a561b5288/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/382d43f3923ffc07332d0b5a561b5288/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/9e8d0fdb6dc731e820b13b3a24869fc8/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/9e8d0fdb6dc731e820b13b3a24869fc8/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d63dd71d0d6d716169be8282175687d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d63dd71d0d6d716169be8282175687d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2ad697f92c86a6df70dca43897751541/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2ad697f92c86a6df70dca43897751541/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/06b8e08340255c8072dc894d0905bdcb/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/06b8e08340255c8072dc894d0905bdcb/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/cd0087dbf0605364a4e01a30760417c4/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/cd0087dbf0605364a4e01a30760417c4/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/d7e3d392856c4115711f33512bdf5eff/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/d7e3d392856c4115711f33512bdf5eff/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/44a00f157ec2fd1268d7862b712e63d9/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/44a00f157ec2fd1268d7862b712e63d9/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/6d63cd81a0b8cd75e99682ccc1ae9f76/transformed/jetified-ui-util-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/6d63cd81a0b8cd75e99682ccc1ae9f76/transformed/jetified-ui-util-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/clever_mustafa/.gradle/caches/transforms-3/ee35a804ab57415bf368e064a1a8ce36/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/clever_mustafa/.gradle/caches/transforms-3/ee35a804ab57415bf368e064a1a8ce36/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/b2ec1087477edf901b2589c39bcfe16b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/b2ec1087477edf901b2589c39bcfe16b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/e49024ff983eeb71402a13f0a5d46d70/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/e49024ff983eeb71402a13f0a5d46d70/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/5af0621d3f782e068210adac1a3b1550/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/5af0621d3f782e068210adac1a3b1550/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/7c0d373f4a625b274ae8203ae2f84295/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/7c0d373f4a625b274ae8203ae2f84295/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/8dfc73c6e48ae5976689989909f91503/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/clever_mustafa/.gradle/caches/transforms-3/8dfc73c6e48ae5976689989909f91503/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/10cb5e87fe4ecb6ebb4e1ed716e50bbb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/10cb5e87fe4ecb6ebb4e1ed716e50bbb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55788f028323670b6dd63e4905347a05/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55788f028323670b6dd63e4905347a05/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/c62ae8330a6f8c276e9b5ac75ee2ca63/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/c62ae8330a6f8c276e9b5ac75ee2ca63/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/57c77e0ad10749459fcbb52276548fa8/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/clever_mustafa/.gradle/caches/transforms-3/57c77e0ad10749459fcbb52276548fa8/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/4fd58190a553f7771ecfa6435bea0710/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/4fd58190a553f7771ecfa6435bea0710/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8e8c6cacdb0c7f5f715fe3f882a4256b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8e8c6cacdb0c7f5f715fe3f882a4256b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/a2f93394b00f9d5d9ae7bcccdd8ff301/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/a2f93394b00f9d5d9ae7bcccdd8ff301/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/90418302dbfe60f8cf582e47bda3a021/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/clever_mustafa/.gradle/caches/transforms-3/90418302dbfe60f8cf582e47bda3a021/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clever_mustafa/development/kotlin_apps/flash_blink_app/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/57b963b5cc4f5fb9c4c34c5004caf8bb/transformed/jetified-ui-tooling-1.0.1/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/57b963b5cc4f5fb9c4c34c5004caf8bb/transformed/jetified-ui-tooling-1.0.1/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/57b963b5cc4f5fb9c4c34c5004caf8bb/transformed/jetified-ui-tooling-1.0.1/AndroidManifest.xml:26:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55788f028323670b6dd63e4905347a05/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55788f028323670b6dd63e4905347a05/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/clever_mustafa/.gradle/caches/transforms-3/8d66ea1bf4574dee4ad0e86d0e0d8612/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.clevermustafa.flash_blink_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.clevermustafa.flash_blink_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/clever_mustafa/.gradle/caches/transforms-3/2d8897e193293414bb89926ed5ed39a8/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/clever_mustafa/.gradle/caches/transforms-3/55a71b79c7df49837a90e674222acd34/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/clever_mustafa/.gradle/caches/transforms-3/3ef7ca13822c452114bd24810aa21564/transformed/jetified-profileinstaller-1.0.1/AndroidManifest.xml:43:25-88

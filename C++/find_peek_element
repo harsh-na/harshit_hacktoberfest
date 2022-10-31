@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int findPeakElement(vector<int>& nums) {
+       int p= *max_element(nums.begin(), nums.end());
+        int q=0;
+        for(int i=0;i<nums.size();i++){
+    if(p==nums[i]){
+        q=i;
+        break;
+    }
+        }
+        return q;
+    }
+};

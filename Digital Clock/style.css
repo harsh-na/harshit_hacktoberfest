@@ -1,0 +1,54 @@
+body{
+    background-color: #609593;
+
+}
+.daycode{
+    font-family: 'Orbitron',sans-serif;
+    letter-spacing: 10px;
+    font-weight: bolder;
+    font-size: 17px;
+    color: gray;
+}
+
+#day{
+    margin-bottom: 12px;
+}
+#time{
+    font-family: 'Orbitron',sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    letter-spacing: 5px;
+    color: blue;
+}
+
+h1{
+    font-family: 'Orbitron',sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 55px;
+    color: #282867;
+
+}
+
+#box{
+    text-align: center;
+    border-style: solid;
+    border-width: 55px;
+    margin-left: 177px;
+    margin-right: 177px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 95px;
+    border-color: #292957;
+    background-color: black;
+    color: white;
+
+}
+
+#date{
+    margin-top: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    color: brown;
+    
+}

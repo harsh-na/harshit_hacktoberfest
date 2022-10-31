@@ -1,0 +1,15 @@
+.main{
+  background-color: orange;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contactContainer{
+  width: 100%;
+  display: flex;
+  margin: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
+}

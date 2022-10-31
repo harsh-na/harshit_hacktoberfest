@@ -1,0 +1,74 @@
+## Abstract Class in Java ,one of the most imp topic in JAVA which forms the principles of OOP
+1.Abstraction
+2.Polymorhphism
+3.Encapsulation
+4.Inheritance
+
+```
+abstract class Animal2{
+    public abstract void sound();
+    public void eat(){
+        System.out.println("Animal is eating");
+    }
+}
+class Dog2 extends Animal2{
+    public void sound(){
+        System.out.println( "bough wough");
+    }
+}
+public class AbstractClass {
+    public static void main(String[] args) {
+        Dog2 obj=new Dog2();
+        obj.eat();
+        obj.sound();
+    }
+}
+```
+...
+abstract class Animal{
+   String color;
+
+Animal(){
+   System.out.println("Animal constructor called...");
+}
+
+void eat(){
+   System.out.println("Animal is eating");
+}
+   abstract void walk();
+}
+
+class Horse extends Animal{
+    Horse(){
+       System.out.println("Horse constructor called...");
+    }
+    void changeColor(){
+        color = "dark brown";
+    }
+    void walk(){
+      System.out.println("Horse walk on 4 legs");
+    }
+}
+
+class Mustang extends Horse{
+    Mustang(){
+      System.out.println("Mustang constructor called...");
+    }
+}
+
+class Chicken extends Animal{
+   void changeColor(){
+       color = "yellow";
+   }
+   void walk(){
+       System.out.println("Chicken walk on 2 legs");
+   }
+}
+
+public class AbstractClass{
+   public static void main(String args[]){
+     Mustang myHorse = new Mustang();
+    // Animal -> Horse -> Mustang
+   }
+}
+...

@@ -1,0 +1,81 @@
+// created by sachin raj
+
+#include<bits/stdc++.h>
+using namespace std;
+class trieNode{
+    public:
+    char c;
+    trieNode* child[26];
+    bool isword;
+    trieNode(char ch){
+        this->c=ch;
+        for(int i=0;i<26;i++){
+            child[i]=NULL;
+        }
+        isword=false;
+
+    }
+};
+class trie{
+    public:
+    trieNode* root;
+    trie(){
+        root=new trieNode('\0');
+    }
+    void insertutil(trieNode* root, string word){
+        if(word.size()==0){
+            root->isword=true;
+            return ;
+        }
+        // if word exists
+        int idx=word[0]-'a';
+        trieNode*children;
+        if(root->child[idx]!=NULL){
+              children=root->child[idx];
+        }
+        else{
+            children=new trieNode(word[0]);
+            root->child[idx]=children;
+        }
+        insertutil(children,word.substr(1));
+    }
+    void insert(string word){
+        insertutil(root,word);
+    }
+    bool searchutil( trieNode* root, string word){
+        if(word.size()==0)return root->isword;
+        int idx=word[0]-'a';
+        trieNode* children;
+        if(root->child[idx]!=NULL){
+           children=root->child[idx];
+        }
+        else return false;
+        return searchutil(children,word.substr(1));
+    }
+    bool search(string word){
+         return searchutil(root,word);
+    }
+    void deleteutil(trieNode* root, string word){
+        if(word.size()==0){
+            root->isword=false;
+            return ;
+        }
+        int idx=word[0]-'a';
+        if(root->child[idx]!=NULL)deleteutil(root->child[idx],word.substr(1));
+    }
+    void deleted(string word){
+        deleteutil(root,word);
+    }
+};
+int main(){
+   trie * t=new trie();
+   t->insert("sachin");
+   if(t->search("sachin")==true){
+    cout<<"found";
+   }
+   else {
+    cout<<" not found";
+   }
+   t->deleted("sachin");
+   cout<<t->search("sachin");
+}

@@ -1,0 +1,27 @@
+#include<iostream>
+#include<conio.h>
+void main()
+{
+     clrscr();
+     int a, b;
+     cout<<"Enter value of a and b : ";
+     cin>> a >> b;
+     int c = a-b;
+     try
+     {
+          if(c != 0 )
+          {
+             cout<< "\n Result : " << (a/c);
+          }
+          else
+          {
+             throw(c);
+          }
+     }
+     catch (int i)
+     {
+        cout << "\n Exception caught : " << i;
+     }
+     cout << "\n END.";
+     getch();
+}

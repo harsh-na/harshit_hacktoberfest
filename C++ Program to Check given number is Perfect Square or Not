@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int n;
+	bool square=false;
+	cout<<"Hey Friend, \nI will tell you that your number is Perfect Square or Not a Perfect Square number\n";
+	cout<<"Enter the number : ";
+	cin>>n;
+	if(n==1) cout<<" Perfect Square\n"<<endl;
+	else{
+	for(int i=2;i<n/2;i++){
+		if(i*i == n){
+			cout<<"Perfect Square\n";
+			square=true;
+			break;
+	}
+	}
+	if (!square) cout<<"Not a Perfect Square";
+}
+}

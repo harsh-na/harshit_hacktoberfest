@@ -1,0 +1,36 @@
+#include <iostream>
+#include <string>
+
+bool isPalindrome(const std::string& str){
+
+    if(str.empty()) return true;
+
+    std::string::const_iterator itFirst = str.begin();
+    std::string::const_iterator itLast = str.end() - 1;
+
+    while(itFirst < itLast) {
+        if (*itFirst != *itLast)
+            return false;
+    
+        ++itFirst;
+        --itLast;
+    }
+    return true;
+}
+
+int main(){
+
+    while(1){
+        std::string input;
+        std::cout << "Eneter a string ...\n";
+        std::cin >> input;
+
+        if(isPalindrome(input)){
+            std::cout << input <<  " is palindrome.\n";
+        } else {
+            std::cout << input << " is not palindrome.\n";
+        }
+    }
+
+    return 0;
+}

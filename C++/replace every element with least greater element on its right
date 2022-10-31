@@ -1,0 +1,19 @@
+// contributed by sachin raj
+ vector<int> findLeastGreater(vector<int>& arr, int n) {
+        // we will use upper limit function bcoz it will return the immediate greater element if exists or point to a garbage value index that is end 
+        
+        vector<int>ans;
+        set<int>s;// we need a set to store the value so that element should be stored in sorted order
+        
+        ans.push_back(-1); // since for the last element no greater element exists on its right hence for this -1
+        s.insert(arr[n-1]);
+        for(int i=n-2;i>=0;i--){
+            auto ix=s.upper_bound(arr[i]); // for every element we r checking in its right whether there is a greater element or not
+            s.insert(arr[i]);
+            if(ix==s.end())ans.push_back(-1); // if no element found
+            
+            else ans.push_back(*ix);
+        }
+        reverse(ans.begin(),ans.end()); // we need to reverse the ans bcoz we have stored in opposite direction
+        return ans;
+    }
